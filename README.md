@@ -4,16 +4,6 @@
 - O objetivo deste projeto é analisar os dados de clientes e segmentá-los através de modelos de clusterização, 
 baseado em sexo, idade, salário (dólares anuais) e score de compras.
 
-## Screenshots da página construída
-<p float="left">
-    <img src="images/01.png" width="400" height="200"/>
-    <img src="images/02.png" width="400" height="200"/>
-<p float="left">
-    <img src="images/03.png" width="400" height="200"/>
-    <img src="images/04.png" width="400" height="200"/>
-<p float="left">
-    <img src="images/05.png" width="400" height="200"/>
-
 ## Comentários sobre o projeto
 - Na parte onde você aplica algum algoritmo de clusterização, conforme você aumenta o número de clusters, automaticamente a página mostra os dados associados a cada cluster e os gráficos associados. Uma das (grandes) vantagens que você pode ter em relação a um Jupyter Notebook. 
 - Para visualização da análise dos dados e das predições usando os algoritmos de Machine Learning, usei o pacote Streamlit, que permite que você crie uma página web dinâmica localmente onde você pode inserir qualquer coisa que use Python. Esta ferramenta não só facilita muito as análises dos dados como também permite com que o usuário possa interagir com a página. 
@@ -58,3 +48,13 @@ baseado em sexo, idade, salário (dólares anuais) e score de compras.
 ## Melhorias a serem feitas
 - Publicar a página no Streamlit ou no Heroku
 - Inserir esse projeto dentro de um contâiner Docker
+
+## Screenshots da página construída
+<p float="left">
+    <img src="images/01.png" width="400" height="200"/>
+    <img src="images/02.png" width="400" height="200"/>
+<p float="left">
+    <img src="images/03.png" width="400" height="200"/>
+    <img src="images/04.png" width="400" height="200"/>
+<p float="left">
+    <img src="images/05.png" width="400" height="200"/>

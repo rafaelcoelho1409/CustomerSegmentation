@@ -4,6 +4,9 @@
 - O objetivo deste projeto é analisar os dados de clientes e segmentá-los através de modelos de clusterização, 
 baseado em sexo, idade, salário (dólares anuais) e score de compras.
 
+## Link deste projeto:
+- https://share.streamlit.io/rafaelcoelho1409/customersegmentation/customer_segmentation.py
+
 ## Recursos utilizados
 - Visual Studio Code
 - python3.8

@@ -50,10 +50,10 @@ baseado em sexo, idade, salário (dólares anuais) e score de compras.
 - Inserir esse projeto dentro de um contâiner Docker
 
 ## Screenshots da página construída
-<img src="images/01.png" width="800" height="400"/>
-<img src="images/02.png" width="800" height="400"/>
-<img src="images/03.png" width="800" height="400"/>
-<img src="images/04.png" width="800" height="400"/>
-<img src="images/05.png" width="800" height="400"/>
-<img src="images/06.png" width="800" height="400"/>
-<img src="images/07.png" width="800" height="400"/>
+<img src="images/001.png" width="800" height="400"/>
+<img src="images/002.png" width="800" height="400"/>
+<img src="images/003.png" width="800" height="400"/>
+<img src="images/004.png" width="800" height="400"/>
+<img src="images/005.png" width="800" height="400"/>
+<img src="images/006.png" width="800" height="400"/>
+<img src="images/007.png" width="800" height="400"/>
